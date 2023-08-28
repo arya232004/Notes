@@ -11,13 +11,7 @@ import { getFirestore, doc, collection, getDoc, arrayUnion, updateDoc, arrayRemo
 // Your web app's Firebase configuration
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-    apiKey: "AIzaSyCPwy4L5uvHAunClLPioTJWL0rMv0RBXA4",
-    authDomain: "notes-db07b.firebaseapp.com",
-    projectId: "notes-db07b",
-    storageBucket: "notes-db07b.appspot.com",
-    messagingSenderId: "392466526277",
-    appId: "1:392466526277:web:bf75eedf3e934e0806b32c",
-    measurementId: "G-Z1M6MLLLV3"
+
 };
 
 // const { user } = useAuth();
